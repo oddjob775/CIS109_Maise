@@ -1,0 +1,10 @@
+C:\Users\Troy\Documents\Coding\C#\Udemy\aMAZEgame\bin\Debug\aMAZEgame.exe.config
+C:\Users\Troy\Documents\Coding\C#\Udemy\aMAZEgame\bin\Debug\aMAZEgame.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\aMAZEgame\bin\Debug\aMAZEgame.pdb
+C:\Users\Troy\Documents\Coding\C#\Udemy\aMAZEgame\obj\Debug\aMAZEgame.csprojAssemblyReference.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\aMAZEgame\obj\Debug\aMAZEgame.Form1.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\aMAZEgame\obj\Debug\aMAZEgame.Properties.Resources.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\aMAZEgame\obj\Debug\aMAZEgame.csproj.GenerateResource.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\aMAZEgame\obj\Debug\aMAZEgame.csproj.CoreCompileInputs.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\aMAZEgame\obj\Debug\aMAZEgame.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\aMAZEgame\obj\Debug\aMAZEgame.pdb
